@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\14158\source\repos\Midterm2C++\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\14158\source\repos\Midterm2C++\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Midterm2C++.vcxproj -> C:\Users\14158\source\repos\Midterm2C++\Debug\Midterm2C++.exe
