@@ -1,0 +1,6 @@
+﻿  dictionaryReadsTextFile.cpp
+C:\Users\14158\source\repos\DictionaryPartC\dictionaryReadsTextFile.cpp(160,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14158\source\repos\DictionaryPartC\dictionaryReadsTextFile.cpp(171,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14158\source\repos\DictionaryPartC\dictionaryReadsTextFile.cpp(288,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14158\source\repos\DictionaryPartC\dictionaryReadsTextFile.cpp(307,28): warning C4018: '<': signed/unsigned mismatch
+  DictionaryPartC.vcxproj -> C:\Users\14158\source\repos\DictionaryPartC\Debug\DictionaryPartC.exe
