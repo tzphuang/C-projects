@@ -1,0 +1,30 @@
+﻿  LinkedBag.cpp
+  LinkedBag340.cpp
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(211,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LinkedBagClient340.cpp
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(211,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(204,1): error C2561: 'LinkedBag<std::string>::removeRandom340': function must return a value
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag.h(28): message : see declaration of 'LinkedBag<std::string>::removeRandom340'
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(200): message : while compiling class template member function 'ItemType LinkedBag<ItemType>::removeRandom340(void)'
+          with
+          [
+              ItemType=std::string
+          ]
+C:\Users\14158\source\repos\Assignment3partB\LinkedBagClient340.cpp(115): message : see reference to function template instantiation 'ItemType LinkedBag<ItemType>::removeRandom340(void)' being compiled
+          with
+          [
+              ItemType=std::string
+          ]
+C:\Users\14158\source\repos\Assignment3partB\LinkedBagClient340.cpp(28): message : see reference to class template instantiation 'LinkedBag<std::string>' being compiled
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(208,1): error C2561: 'LinkedBag<std::string>::removeRandom340': function must return a value
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag.h(28): message : see declaration of 'LinkedBag<std::string>::removeRandom340'
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(211,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(227,1): error C3867: 'Node<ItemType>::getNext': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              ItemType=std::string
+          ]
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag340.cpp(239,1): error C2561: 'LinkedBag<std::string>::removeRandom340': function must return a value
+C:\Users\14158\source\repos\Assignment3partB\LinkedBag.h(28): message : see declaration of 'LinkedBag<std::string>::removeRandom340'
+  Node.cpp
+  Generating Code...
